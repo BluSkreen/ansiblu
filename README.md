@@ -4,6 +4,8 @@ my dev setup for docker or linux
 
 build docker image
 
+`bash build-dockers`
+
 `docker run --rm -it nvim-computer bash`
 
 dotfiles
